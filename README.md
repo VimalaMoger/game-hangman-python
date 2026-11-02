@@ -1,6 +1,6 @@
 Hangman Flowchart:
 
-![HangmanFlowchart](../PythonProject/flowchart.png)
+![HangmanFlowchart](https://github.com/VimalaMoger/game-hangman-python/blob/master/flowchart.png)
 
 TODOs:
 
