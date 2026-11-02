@@ -47,9 +47,6 @@ def play_game():
 
         print(stages[lives])
 
-
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     play_game()
 
