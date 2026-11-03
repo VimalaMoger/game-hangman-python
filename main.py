@@ -19,6 +19,10 @@ def play_game():
     while not game_over:
         print(f"************  {lives}/6 lives left  ************")
         guess = input("Please enter your guess:").lower()
+
+        if guess in correct_letter:
+            print(f"You've already guessed {guess}")
+
         display = ""
         for letter in chosen_word.lower():
             if letter == guess:
@@ -29,9 +33,6 @@ def play_game():
             else:
                 display += "_"
         print(display)
-
-        if guess in correct_letter:
-            print(f"You've already guessed {guess}")
 
         if guess not in chosen_word.lower():
             print(f"you guessed {guess}, that is not in the word. You lose a life.")
