@@ -1,5 +1,5 @@
 
-<img width="627" height="176" alt="hangman-logo" src="https://github.com/user-attachments/assets/2762dcf1-4cab-4c83-89ca-2039a7055762" />
+<img width="627" height="176" alt="hangman-logo" src="https://github.com/VimalaMoger/game-hangman-python/blob/master/assets/hangman-logo.png" />
 
 
 
