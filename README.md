@@ -1,6 +1,10 @@
-Hangman Flowchart:
 
-![HangmanFlowchart](https://github.com/VimalaMoger/game-hangman-python/blob/master/flowchart.png)
+<img width="627" height="176" alt="hangman-logo" src="https://github.com/user-attachments/assets/2762dcf1-4cab-4c83-89ca-2039a7055762" />
+
+
+
+<img width="239" height="211" alt="image" src="https://github.com/user-attachments/assets/f248ee79-5b72-4463-91b4-9385ba79eed7" />
+
 
 TODOs:
 
